@@ -45,7 +45,7 @@ work(1, 3)
 work(1, 4)
 console.log(work.calls)
 
-
+console.log('test2')
 
 
 
