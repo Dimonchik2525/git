@@ -52,4 +52,6 @@ console.log('git-commit')
 
 console.log('git-commit/2')
 
+console.log('git commit /3')
+
 
