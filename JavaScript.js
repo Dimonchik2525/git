@@ -1,2 +1,3 @@
 console.log('im master')
-console.log('error')
+console.log('git ammend')
+console.log('resolve something')
